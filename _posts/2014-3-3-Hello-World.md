@@ -1,10 +1,12 @@
 ---
 layout: post
-title: You're up and running!
+title: First blog post
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+This is a blog post for my MDS course.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+I love playing league of legends so I'll throw in a picture of Kayn, one of my favorite champions in the game.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+![image](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjR0arQ9djkAhWRtZ4KHe43BXcQjRx6BAgBEAQ&url=https%3A%2F%2Fleagueoflegends.fandom.com%2Fwiki%2FKayn&psig=AOvVaw1uJzhSO3vocfpXzQyjMGKz&ust=1568846188997272)
+
+This is one of the most annoying champs in the game, however, he requires a lot of skill to master and perfect.
